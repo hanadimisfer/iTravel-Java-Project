@@ -1,0 +1,12 @@
+Hotel Name	Number of room	Price	Hotel Service	
+null		null		null		null		
+.
+
+null		null		null		null		
+.
+
+null		null		null		null		
+.
+
+null		null		null		null		
+.
